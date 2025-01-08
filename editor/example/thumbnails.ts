@@ -26,6 +26,7 @@ import SARS_COV_2 from './thumbnails/SARS_COV_2.png';
 import SASHIMI_PLOT from './thumbnails/SASHIMI_PLOT.png';
 import SEQUENCE from './thumbnails/SEQUENCE.gif';
 import SEMANTIC_ZOOM from './thumbnails/SEMANTIC_ZOOM.png';
+import SPATIAL_LAYOUT from './thumbnails/SPATIAL_LAYOUT.png';
 import TEMPLATE from './thumbnails/TEMPLATE.png';
 import VISUAL_ENCODING from './thumbnails/VISUAL_ENCODING.png';
 import VISUAL_ENCODING_CIRCULAR from './thumbnails/VISUAL_ENCODING_CIRCULAR.png';
@@ -60,6 +61,7 @@ export const THUMBNAILS = {
     SARS_COV_2,
     SASHIMI_PLOT,
     SEMANTIC_ZOOM,
+    SPATIAL_LAYOUT,
     TEMPLATE,
     VISUAL_ENCODING,
     VISUAL_ENCODING_CIRCULAR,

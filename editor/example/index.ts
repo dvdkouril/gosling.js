@@ -423,6 +423,12 @@ export const editorExampleObj: {
         spec: JsonExampleSpecs.EX_SPEC_PERF_ALIGNMENT,
         image: THUMBNAILS.PERF_ALIGNMENT
     },
+    SPATIAL_LAYOUT: {
+        group: 'Experimental',
+        name: 'Spatial layouting testing',
+        spec: JsonExampleSpecs.EX_SPEC_SPATIAL_LAYOUT,
+        image: THUMBNAILS.SPATIAL_LAYOUT
+    },
     CORCES_ET_AL: {
         group: 'Coordinated Multiple Views',
         name: 'Corces et al. 2020',
